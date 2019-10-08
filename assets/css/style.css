@@ -1,6 +1,44 @@
-footer{
+/* footer{
 display:block;
 text-align: center;
 margin:auto;
 width:100%;
+} */
+
+body{
+    background-color: black;
+    color:white;
+}
+#mainBack{
+    color: black;
+
+}
+
+h1,h3{
+    font-family:"Barrio";
+}
+h2,p{
+    font-family:"Quicksand";
+
+}
+
+h1{
+    text-decoration: underline;
+}
+
+.jumbotron{
+    background-color: hotpink;
+}
+
+footer{
+    background-color: hotpink !important;
+}
+.small text-center text-muted{
+    color:black !important;
+    text-emphasis:bold !important;
+    text-decoration: underline !important;
+}
+
+.bg-light py-5{
+    background-color: hotpink !important;
 }
